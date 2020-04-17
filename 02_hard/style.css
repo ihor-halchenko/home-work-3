@@ -1,0 +1,80 @@
+body {
+  background: #990909;
+}
+
+.div-title {
+  text-align: center;
+}
+
+.div-img {
+  height: 200px;
+  background: #000000;
+  color: #ffffff;
+}
+figure {
+  display: inline-block;
+}
+figcaption {
+  text-align: center;
+  font-size: 18px;
+}
+.div-pack-img {
+  width: 200px;
+  height: 150px;
+  margin: 5px 20px 0px 20px;
+}
+
+.section-aside {
+  background: #7d0909;
+  float: left;
+  height: 350px;
+  width: 200px;
+  margin-top: 3px;
+}
+span {
+  display: block;
+  margin: 15px 0px 15px 0px;
+  font-size: 18px;
+}
+a {
+  color: #e95b0d;
+}
+.section-text {
+  width: 950px;
+  margin-top: 20px;
+  color: #ffffff;
+  margin-bottom: 40px;
+  font-size: 18px;
+}
+section {
+  float: left;
+  width: 30%;
+}
+.section-right {
+  float: right;
+  height: 350px;
+  width: 150px;
+  margin-top: 3px;
+  background: #e3dddd;
+}
+hr {
+  margin: 0px 30px 0px 30px;
+}
+.section-right-title {
+  background: #bdbdbd;
+  text-align: center;
+  margin-top: 0px;
+  font-weight: bold;
+  font-size: 18px;
+}
+.section-right-text {
+  margin: 20px 0px 20px 0px;
+  font-size: 18px;
+}
+footer {
+  background: #e95b11;
+  text-align: center;
+  color: #ffffff;
+  font-size: 20px;
+  clear: both;
+}
